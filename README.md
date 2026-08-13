@@ -104,7 +104,7 @@ Use the [enum\_wayback](https://github.com/mubix/stuff/blob/master/metasploit/en
 
 > In-depth reading about S3 security and misconfigurations
 
-* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 457 | 🐛 1 | 🌐 Python | 📅 2026-08-12 - Comprehensive list of documented S3 data exposures
+* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 456 | 🐛 1 | 🌐 Python | 📅 2026-08-12 - Comprehensive list of documented S3 data exposures
 * [How to Search for Open Amazon S3 Buckets](https://medium.com/@grayhatwarfare/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01) - GrayhatWarfare guide
 * [There's a Hole in 1,951 Amazon S3 Buckets](https://blog.rapid7.com/2013/03/27/open-s3-buckets/) - Rapid7 research
 * [Amazon S3 Bucket Public Access Considerations](https://aws.amazon.com/pt/articles/amazon-s3-bucket-public-access-considerations/) - Official AWS guidance
