@@ -82,7 +82,7 @@
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 \| 🐛 0 \| 🌐 Ruby \| 📅 2025-10-08 | Find public data in cloud storage systems                          |
 | [exif-scraper](https://github.com/downpat/exif-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2017-03-22              | Extract EXIF data from S3 bucket photos                            |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers)                                                | Web scraping for dumping stats to S3 bucket CSV files              |
-| [s3m](https://github.com/s3m/s3m) ⭐ 56 \| 🐛 0 \| 🌐 Rust \| 📅 2026-08-09                                     | CLI for streams of data in S3 buckets                              |
+| [s3m](https://github.com/s3m/s3m) ⭐ 56 \| 🐛 0 \| 🌐 Rust \| 📅 2026-08-16                                     | CLI for streams of data in S3 buckets                              |
 
 ***
 
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
