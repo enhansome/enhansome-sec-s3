@@ -1,38 +1,7 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Bucket Enumeration Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "General Purpose Tools"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Techniques"
-    },
-    {
-      "description": "Use the enum_wayback Metasploit module to pull and parse URLs stored by Archive.org. Useful for finding unlinked and legacy pages during web assessments.",
-      "items": [],
-      "title": "Wayback Machine Enumeration"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Videos"
-    },
-    {
-      "description": "Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.",
-      "items": [],
-      "title": "Contributing"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T10:58:34.232Z",
+    "last_updated": "2026-08-19T10:58:27.954Z",
     "original_repository": "mxm0z/awesome-sec-s3",
     "original_repository_sha": "f4d4005d1e9e625e74eab2936fc7ea92293fbe0a",
     "enhanced_repository": "enhansome/enhansome-sec-s3",
