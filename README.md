@@ -82,7 +82,7 @@
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 \| 🐛 0 \| 🌐 Ruby \| 📅 2025-10-08 | Find public data in cloud storage systems                          |
 | [exif-scraper](https://github.com/downpat/exif-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2017-03-22              | Extract EXIF data from S3 bucket photos                            |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers)                                                | Web scraping for dumping stats to S3 bucket CSV files              |
-| [s3m](https://github.com/s3m/s3m) ⭐ 56 \| 🐛 0 \| 🌐 Rust \| 📅 2026-08-16                                     | CLI for streams of data in S3 buckets                              |
+| [s3m](https://github.com/s3m/s3m) ⭐ 56 \| 🐛 0 \| 🌐 Rust \| 📅 2026-08-19                                     | CLI for streams of data in S3 buckets                              |
 
 ***
 
@@ -104,7 +104,7 @@ Use the [enum\_wayback](https://github.com/mubix/stuff/blob/master/metasploit/en
 
 > In-depth reading about S3 security and misconfigurations
 
-* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 456 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Comprehensive list of documented S3 data exposures
+* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 457 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Comprehensive list of documented S3 data exposures
 * [How to Search for Open Amazon S3 Buckets](https://medium.com/@grayhatwarfare/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01) - GrayhatWarfare guide
 * [There's a Hole in 1,951 Amazon S3 Buckets](https://blog.rapid7.com/2013/03/27/open-s3-buckets/) - Rapid7 research
 * [Amazon S3 Bucket Public Access Considerations](https://aws.amazon.com/pt/articles/amazon-s3-bucket-public-access-considerations/) - Official AWS guidance
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
