@@ -66,7 +66,7 @@
 | [s3scanner](https://github.com/miguelmota/s3scanner) ⚠️ Archived                                                              | Scan for open public S3 buckets                                             |
 | [bucket-scraper](https://github.com/Rorkien/bucket-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Java \| 📅 2017-03-23                           | CLI for scraping, indexing and downloading S3 buckets                       |
 | [bucket-hunter](https://github.com/samuelcardillo/bucket-hunter) ⭐ 6 \| 🐛 0 \| 🌐 JavaScript \| 📅 2016-01-11                | Amazon AWS Exposed Bucket Hunter                                            |
-| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,808 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
+| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,807 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
 | [goGetBucket](https://github.com/glen-mac/goGetBucket) ⭐ 116 \| 🐛 0 \| 🌐 Go \| 📅 2019-03-29                                | Penetration testing tool to enumerate S3 Buckets by domain                  |
 | [bucket\_finder](https://github.com/FishermansEnemy/bucket_finder) ⭐ 100 \| 🐛 1 \| 🌐 Ruby \| 📅 2013-06-24                  | Trawl Amazon S3 buckets for interesting files                               |
 
@@ -104,7 +104,7 @@ Use the [enum\_wayback](https://github.com/mubix/stuff/blob/master/metasploit/en
 
 > In-depth reading about S3 security and misconfigurations
 
-* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 457 | 🐛 0 | 🌐 Python | 📅 2026-08-15 - Comprehensive list of documented S3 data exposures
+* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 457 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - Comprehensive list of documented S3 data exposures
 * [How to Search for Open Amazon S3 Buckets](https://medium.com/@grayhatwarfare/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01) - GrayhatWarfare guide
 * [There's a Hole in 1,951 Amazon S3 Buckets](https://blog.rapid7.com/2013/03/27/open-s3-buckets/) - Rapid7 research
 * [Amazon S3 Bucket Public Access Considerations](https://aws.amazon.com/pt/articles/amazon-s3-bucket-public-access-considerations/) - Official AWS guidance
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
