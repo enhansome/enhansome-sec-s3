@@ -66,7 +66,7 @@
 | [s3scanner](https://github.com/miguelmota/s3scanner) ⚠️ Archived                                                              | Scan for open public S3 buckets                                             |
 | [bucket-scraper](https://github.com/Rorkien/bucket-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Java \| 📅 2017-03-23                           | CLI for scraping, indexing and downloading S3 buckets                       |
 | [bucket-hunter](https://github.com/samuelcardillo/bucket-hunter) ⭐ 6 \| 🐛 0 \| 🌐 JavaScript \| 📅 2016-01-11                | Amazon AWS Exposed Bucket Hunter                                            |
-| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,807 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
+| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,808 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
 | [goGetBucket](https://github.com/glen-mac/goGetBucket) ⭐ 116 \| 🐛 0 \| 🌐 Go \| 📅 2019-03-29                                | Penetration testing tool to enumerate S3 Buckets by domain                  |
 | [bucket\_finder](https://github.com/FishermansEnemy/bucket_finder) ⭐ 100 \| 🐛 1 \| 🌐 Ruby \| 📅 2013-06-24                  | Trawl Amazon S3 buckets for interesting files                               |
 
@@ -78,7 +78,7 @@
 
 | Tool                                                                                                           | Description                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 537 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 536 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 \| 🐛 0 \| 🌐 Ruby \| 📅 2025-10-08 | Find public data in cloud storage systems                          |
 | [exif-scraper](https://github.com/downpat/exif-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2017-03-22              | Extract EXIF data from S3 bucket photos                            |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers)                                                | Web scraping for dumping stats to S3 bucket CSV files              |
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
