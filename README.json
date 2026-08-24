@@ -1,7 +1,425 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Tools specifically designed for discovering and analyzing AWS S3 buckets",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AWSBucketDump",
+          "description": "Quickly enumerate AWS S3 buckets to look for loot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95813533,
+            "language": "Python",
+            "last_commit": "2024-04-10T06:15:23Z",
+            "owner": "jordanpotti",
+            "repo": "AWSBucketDump",
+            "stars": 1473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "S3Scanner",
+          "description": "Scan for open AWS S3 buckets and dump the contents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94825396,
+            "language": "Go",
+            "last_commit": "2026-08-03T13:45:56Z",
+            "owner": "sa7mon",
+            "repo": "S3Scanner",
+            "stars": 3165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3enum",
+          "description": "Fast Amazon S3 bucket enumeration tool for pentesters",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81667883,
+            "language": "Go",
+            "last_commit": "2026-07-04T13:30:35Z",
+            "owner": "koenrh",
+            "repo": "s3enum",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3-buckets-finder",
+          "description": "PHP tool to brute force Amazon S3 buckets (by gwen001)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88486958,
+            "language": "PHP",
+            "last_commit": "2023-03-28T15:47:33Z",
+            "owner": "gwen001",
+            "repo": "s3-buckets-finder",
+            "stars": 399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3-buckets-finder",
+          "description": "PHP tool to brute force Amazon S3 buckets (by gold1029)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131269236,
+            "language": "PHP",
+            "last_commit": "2018-04-27T08:33:58Z",
+            "owner": "gold1029",
+            "repo": "s3-buckets-finder",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sandcastle",
+          "description": "Python script for AWS S3 bucket enumeration (formerly bucketCrawler)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94269138,
+            "language": "Python",
+            "last_commit": "2022-12-01T23:39:56Z",
+            "owner": "0xSearches",
+            "repo": "sandcastle",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyLazyS3",
+          "description": "Enumerate AWS S3 buckets using different permutations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138894950,
+            "language": "Python",
+            "last_commit": "2022-01-28T09:57:10Z",
+            "owner": "Den1al",
+            "repo": "PyLazyS3",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RoboBucketeer",
+          "description": "Robot Framework Library for S3 Buckets & Subdomain Enumeration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140531908,
+            "language": "HTML",
+            "last_commit": "2018-07-12T07:49:12Z",
+            "owner": "we45",
+            "repo": "RoboBucketeer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inSp3ctor",
+          "description": "AWS S3 Bucket/Object Finder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99946544,
+            "language": "Python",
+            "last_commit": "2021-07-13T20:15:16Z",
+            "owner": "brianwarehime",
+            "repo": "inSp3ctor",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bucketkicker",
+          "description": "Quickly enumerate AWS S3 buckets and look for loot",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122479127,
+            "language": "Python",
+            "last_commit": "2022-12-08T00:40:33Z",
+            "owner": "craighays",
+            "repo": "bucketkicker",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3recon",
+          "description": "Amazon S3 bucket finder and crawler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169017216,
+            "language": "Python",
+            "last_commit": "2021-12-27T15:38:59Z",
+            "owner": "clarketm",
+            "repo": "s3recon",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3finder",
+          "description": "Search using wordlist or certificate transparency logs",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 112896706,
+            "language": "Go",
+            "last_commit": "2018-03-08T02:19:55Z",
+            "owner": "magisterquis",
+            "repo": "s3finder",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kicks3",
+          "description": "S3 bucket finder from HTML/JS and misconfiguration testing tool",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182117713,
+            "language": "Python",
+            "last_commit": "2020-02-10T12:20:00Z",
+            "owner": "abuvanth",
+            "repo": "kicks3",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bucket_finder",
+          "description": "DigiNinja's bucket_finder utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66945130,
+            "language": "Ruby",
+            "last_commit": "2016-08-30T13:55:40Z",
+            "owner": "mattweidner",
+            "repo": "bucket_finder",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bucket_Finder",
+          "description": "Leaky Buckets finder",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97881102,
+            "language": "Ruby",
+            "last_commit": "2017-07-20T21:51:24Z",
+            "owner": "hazana",
+            "repo": "Bucket_Finder",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "haka_toni_bucket_finder",
+          "description": "S3 Bucket finder utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178593950,
+            "language": "JavaScript",
+            "last_commit": "2019-03-30T18:40:16Z",
+            "owner": "jjvmak",
+            "repo": "haka_toni_bucket_finder",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3-open-bucket-finder",
+          "description": "Open S3 Bucket discovery tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189829967,
+            "language": "Python",
+            "last_commit": "2019-06-02T11:25:17Z",
+            "owner": "siddharth2395",
+            "repo": "s3-open-bucket-finder",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3scanner",
+          "description": "Scan for open public S3 buckets",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 161137976,
+            "language": "JavaScript",
+            "last_commit": "2018-12-10T07:58:53Z",
+            "owner": "miguelmota",
+            "repo": "s3scanner",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bucket-scraper",
+          "description": "CLI for scraping, indexing and downloading S3 buckets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85869991,
+            "language": "Java",
+            "last_commit": "2017-03-23T12:12:20Z",
+            "owner": "Tulio-B",
+            "repo": "bucket-scraper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bucket-hunter",
+          "description": "Amazon AWS Exposed Bucket Hunter",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49459340,
+            "language": "JavaScript",
+            "last_commit": "2016-01-11T22:46:54Z",
+            "owner": "samuelcardillo",
+            "repo": "bucket-hunter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bucket-stream",
+          "description": "Find S3 Buckets by watching certificate transparency logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112541651,
+            "language": "Python",
+            "last_commit": "2025-02-28T15:44:26Z",
+            "owner": "eth0izzle",
+            "repo": "bucket-stream",
+            "stars": 1807
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goGetBucket",
+          "description": "Penetration testing tool to enumerate S3 Buckets by domain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96290868,
+            "language": "Go",
+            "last_commit": "2019-03-29T02:08:45Z",
+            "owner": "glem0",
+            "repo": "goGetBucket",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bucket_finder",
+          "description": "Trawl Amazon S3 buckets for interesting files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 9238403,
+            "language": "Ruby",
+            "last_commit": "2013-06-24T12:12:03Z",
+            "owner": "FishermansEnemy",
+            "repo": "bucket_finder",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "Bucket Enumeration Tools"
+    },
+    {
+      "description": "Multi-purpose tools that include S3 bucket functionality alongside other cloud storage services",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CloudScraper",
+          "description": "Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133761109,
+            "language": "Python",
+            "last_commit": "2022-03-07T21:05:37Z",
+            "owner": "jordanpotti",
+            "repo": "CloudScraper",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudStorageFinder",
+          "description": "Find public data in cloud storage systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122954175,
+            "language": "Ruby",
+            "last_commit": "2025-10-08T13:31:08Z",
+            "owner": "digininja",
+            "repo": "CloudStorageFinder",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exif-scraper",
+          "description": "Extract EXIF data from S3 bucket photos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85759504,
+            "language": "Python",
+            "last_commit": "2017-03-22T19:36:55Z",
+            "owner": "downpat",
+            "repo": "exif-scraper",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "s3m",
+          "description": "CLI for streams of data in S3 buckets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179674750,
+            "language": "Rust",
+            "last_commit": "2026-08-19T16:19:00Z",
+            "owner": "s3m",
+            "repo": "s3m",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "General Purpose Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T11:04:25.210Z",
+    "last_updated": "2026-08-24T14:26:23.888Z",
     "original_repository": "mxm0z/awesome-sec-s3",
     "original_repository_id": 200312712,
     "original_repository_sha": "f4d4005d1e9e625e74eab2936fc7ea92293fbe0a",
