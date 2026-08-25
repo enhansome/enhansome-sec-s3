@@ -42,7 +42,7 @@
             "archived": false,
             "id": 81667883,
             "language": "Go",
-            "last_commit": "2026-07-04T13:30:35Z",
+            "last_commit": "2026-08-24T22:12:34Z",
             "owner": "koenrh",
             "repo": "s3enum",
             "stars": 278
@@ -419,7 +419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:23.888Z",
+    "last_updated": "2026-08-25T06:18:34.343Z",
     "original_repository": "mxm0z/awesome-sec-s3",
     "original_repository_id": 200312712,
     "original_repository_sha": "f4d4005d1e9e625e74eab2936fc7ea92293fbe0a",
