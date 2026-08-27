@@ -419,9 +419,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T11:04:15.055Z",
-    "original_repository": "mxm0z/awesome-sec-s3",
-    "original_repository_id": 200312712,
+    "last_updated": "2026-08-27T12:01:33.296Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 200312712,
+      "language": null,
+      "last_commit": "2025-12-30T06:04:37Z",
+      "owner": "mxm0z",
+      "repo": "awesome-sec-s3",
+      "stars": 429
+    },
     "original_repository_sha": "f4d4005d1e9e625e74eab2936fc7ea92293fbe0a",
     "enhanced_repository": "enhansome/enhansome-sec-s3",
     "enhanced_repository_description": null,
