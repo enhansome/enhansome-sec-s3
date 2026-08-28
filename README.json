@@ -16,7 +16,8 @@
             "owner": "jordanpotti",
             "repo": "AWSBucketDump",
             "stars": 1473
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-03T13:45:56Z",
             "owner": "sa7mon",
             "repo": "S3Scanner",
-            "stars": 3165
-          }
+            "stars": 3166
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "koenrh",
             "repo": "s3enum",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "gwen001",
             "repo": "s3-buckets-finder",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "gold1029",
             "repo": "s3-buckets-finder",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "0xSearches",
             "repo": "sandcastle",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Den1al",
             "repo": "PyLazyS3",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "we45",
             "repo": "RoboBucketeer",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "brianwarehime",
             "repo": "inSp3ctor",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "craighays",
             "repo": "bucketkicker",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "clarketm",
             "repo": "s3recon",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "magisterquis",
             "repo": "s3finder",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "abuvanth",
             "repo": "kicks3",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "mattweidner",
             "repo": "bucket_finder",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "hazana",
             "repo": "Bucket_Finder",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "jjvmak",
             "repo": "haka_toni_bucket_finder",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "siddharth2395",
             "repo": "s3-open-bucket-finder",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "miguelmota",
             "repo": "s3scanner",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Tulio-B",
             "repo": "bucket-scraper",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "samuelcardillo",
             "repo": "bucket-hunter",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "eth0izzle",
             "repo": "bucket-stream",
             "stars": 1808
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "glem0",
             "repo": "goGetBucket",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "FishermansEnemy",
             "repo": "bucket_finder",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         }
       ],
       "title": "Bucket Enumeration Tools"
@@ -367,7 +390,8 @@
             "owner": "jordanpotti",
             "repo": "CloudScraper",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "digininja",
             "repo": "CloudStorageFinder",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "downpat",
             "repo": "exif-scraper",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         },
         {
           "node_type": "item",
@@ -412,14 +438,15 @@
             "owner": "s3m",
             "repo": "s3m",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:13:19.131Z"
         }
       ],
       "title": "General Purpose Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:42:48.782Z",
+    "last_updated": "2026-08-28T21:13:19.131Z",
     "original_repository_info": {
       "archived": false,
       "id": 200312712,
