@@ -504,7 +504,7 @@
             "open_issues": 9,
             "owner": "eth0izzle",
             "repo": "bucket-stream",
-            "stars": 1808,
+            "stars": 1809,
             "topics": [
               "amazon-s3",
               "certificate-transparency",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:39:50.467Z",
+    "last_updated": "2026-09-03T14:42:34.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
