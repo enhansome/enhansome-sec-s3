@@ -45,8 +45,8 @@
 | Tool                                                                                                                          | Description                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Grayhat Warfare](http://buckets.grayhatwarfare.com/)                                                                         | Free tool that lists open S3 buckets and helps search for interesting files |
-| [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,473 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-10                   | Quickly enumerate AWS S3 buckets to look for loot                           |
-| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,169 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
+| [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,474 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-10                   | Quickly enumerate AWS S3 buckets to look for loot                           |
+| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,170 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
 | [s3enum](https://github.com/koenrh/s3enum) ⭐ 280 \| 🐛 3 \| 🌐 Go \| 📅 2026-08-24                                            | Fast Amazon S3 bucket enumeration tool for pentesters                       |
 | [s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) ⭐ 399 \| 🐛 0 \| 🌐 PHP \| 📅 2023-03-28                    | PHP tool to brute force Amazon S3 buckets (by gwen001)                      |
 | [s3-buckets-finder](https://github.com/gold1029/s3-buckets-finder) ⭐ 1 \| 🐛 0 \| 🌐 PHP \| 📅 2018-04-27                     | PHP tool to brute force Amazon S3 buckets (by gold1029)                     |
@@ -66,7 +66,7 @@
 | [s3scanner](https://github.com/miguelmota/s3scanner) ⚠️ Archived                                                              | Scan for open public S3 buckets                                             |
 | [bucket-scraper](https://github.com/Rorkien/bucket-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Java \| 📅 2017-03-23                           | CLI for scraping, indexing and downloading S3 buckets                       |
 | [bucket-hunter](https://github.com/samuelcardillo/bucket-hunter) ⭐ 6 \| 🐛 0 \| 🌐 JavaScript \| 📅 2016-01-11                | Amazon AWS Exposed Bucket Hunter                                            |
-| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,809 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
+| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,810 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
 | [goGetBucket](https://github.com/glen-mac/goGetBucket) ⭐ 116 \| 🐛 0 \| 🌐 Go \| 📅 2019-03-29                                | Penetration testing tool to enumerate S3 Buckets by domain                  |
 | [bucket\_finder](https://github.com/FishermansEnemy/bucket_finder) ⭐ 100 \| 🐛 1 \| 🌐 Ruby \| 📅 2013-06-24                  | Trawl Amazon S3 buckets for interesting files                               |
 
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
