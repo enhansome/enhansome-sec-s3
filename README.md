@@ -66,7 +66,7 @@
 | [s3scanner](https://github.com/miguelmota/s3scanner) ⚠️ Archived                                                              | Scan for open public S3 buckets                                             |
 | [bucket-scraper](https://github.com/Rorkien/bucket-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Java \| 📅 2017-03-23                           | CLI for scraping, indexing and downloading S3 buckets                       |
 | [bucket-hunter](https://github.com/samuelcardillo/bucket-hunter) ⭐ 6 \| 🐛 0 \| 🌐 JavaScript \| 📅 2016-01-11                | Amazon AWS Exposed Bucket Hunter                                            |
-| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,810 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
+| [bucket-stream](https://github.com/eth0izzle/bucket-stream) ⭐ 1,811 \| 🐛 9 \| 🌐 Python \| 📅 2025-02-28                     | Find S3 Buckets by watching certificate transparency logs                   |
 | [goGetBucket](https://github.com/glen-mac/goGetBucket) ⭐ 116 \| 🐛 0 \| 🌐 Go \| 📅 2019-03-29                                | Penetration testing tool to enumerate S3 Buckets by domain                  |
 | [bucket\_finder](https://github.com/FishermansEnemy/bucket_finder) ⭐ 100 \| 🐛 1 \| 🌐 Ruby \| 📅 2013-06-24                  | Trawl Amazon S3 buckets for interesting files                               |
 
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
