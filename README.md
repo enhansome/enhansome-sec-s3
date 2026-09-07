@@ -78,7 +78,7 @@
 
 | Tool                                                                                                           | Description                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 536 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 535 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 \| 🐛 0 \| 🌐 Ruby \| 📅 2025-10-08 | Find public data in cloud storage systems                          |
 | [exif-scraper](https://github.com/downpat/exif-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2017-03-22              | Extract EXIF data from S3 bucket photos                            |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers)                                                | Web scraping for dumping stats to S3 bucket CSV files              |
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
