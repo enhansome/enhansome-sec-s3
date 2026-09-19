@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "koenrh",
             "repo": "s3enum",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "amazon-s3",
               "golang",
@@ -504,7 +504,7 @@
             "open_issues": 9,
             "owner": "eth0izzle",
             "repo": "bucket-stream",
-            "stars": 1813,
+            "stars": 1814,
             "topics": [
               "amazon-s3",
               "certificate-transparency",
@@ -645,7 +645,7 @@
             "id": 179674750,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-19T16:19:00Z",
+            "last_commit": "2026-09-19T07:18:22Z",
             "open_issues": 0,
             "owner": "s3m",
             "repo": "s3m",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:37:16.107Z",
+    "last_updated": "2026-09-19T13:58:37.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
