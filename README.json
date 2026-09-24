@@ -45,7 +45,7 @@
             "open_issues": 41,
             "owner": "sa7mon",
             "repo": "S3Scanner",
-            "stars": 3176,
+            "stars": 3177,
             "topics": [
               "aws",
               "bugbounty",
@@ -262,7 +262,7 @@
             "open_issues": 1,
             "owner": "clarketm",
             "repo": "s3recon",
-            "stars": 155,
+            "stars": 154,
             "topics": [
               "crawler",
               "finder",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:10:08.099Z",
+    "last_updated": "2026-09-24T15:28:28.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",

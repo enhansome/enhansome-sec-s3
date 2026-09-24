@@ -46,7 +46,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Grayhat Warfare](http://buckets.grayhatwarfare.com/)                                                                         | Free tool that lists open S3 buckets and helps search for interesting files |
 | [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,474 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-10                   | Quickly enumerate AWS S3 buckets to look for loot                           |
-| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,176 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
+| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,177 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
 | [s3enum](https://github.com/koenrh/s3enum) ⭐ 281 \| 🐛 3 \| 🌐 Go \| 📅 2026-08-24                                            | Fast Amazon S3 bucket enumeration tool for pentesters                       |
 | [s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) ⭐ 399 \| 🐛 0 \| 🌐 PHP \| 📅 2023-03-28                    | PHP tool to brute force Amazon S3 buckets (by gwen001)                      |
 | [s3-buckets-finder](https://github.com/gold1029/s3-buckets-finder) ⭐ 1 \| 🐛 0 \| 🌐 PHP \| 📅 2018-04-27                     | PHP tool to brute force Amazon S3 buckets (by gold1029)                     |
@@ -56,7 +56,7 @@
 | [RoboBucketeer](https://github.com/we45/RoboBucketeer) ⭐ 2 \| 🐛 0 \| 🌐 HTML \| 📅 2018-07-12                                | Robot Framework Library for S3 Buckets & Subdomain Enumeration              |
 | [inSp3ctor](https://github.com/brianwarehime/inSp3ctor) ⭐ 126 \| 🐛 1 \| 🌐 Python \| 📅 2021-07-13                           | AWS S3 Bucket/Object Finder                                                 |
 | [bucketkicker](https://github.com/craighays/bucketkicker) ⭐ 60 \| 🐛 3 \| 🌐 Python \| 📅 2022-12-08                          | Quickly enumerate AWS S3 buckets and look for loot                          |
-| [s3recon](https://github.com/clarketm/s3recon) ⭐ 155 \| 🐛 1 \| 🌐 Python \| 📅 2021-12-27                                    | Amazon S3 bucket finder and crawler                                         |
+| [s3recon](https://github.com/clarketm/s3recon) ⭐ 154 \| 🐛 1 \| 🌐 Python \| 📅 2021-12-27                                    | Amazon S3 bucket finder and crawler                                         |
 | [s3finder](https://github.com/magisterquis/s3finder) ⚠️ Archived                                                              | Search using wordlist or certificate transparency logs                      |
 | [kicks3](https://github.com/abuvanth/kicks3) ⚠️ Archived                                                                      | S3 bucket finder from HTML/JS and misconfiguration testing tool             |
 | [bucket\_finder](https://github.com/mattweidner/bucket_finder) ⭐ 17 \| 🐛 1 \| 🌐 Ruby \| 📅 2016-08-30                       | DigiNinja's bucket\_finder utility                                          |
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
