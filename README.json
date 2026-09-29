@@ -579,7 +579,7 @@
             "open_issues": 3,
             "owner": "jordanpotti",
             "repo": "CloudScraper",
-            "stars": 535,
+            "stars": 534,
             "topics": [
               "aws",
               "azure",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:14:51.812Z",
+    "last_updated": "2026-09-29T16:36:54.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
@@ -676,7 +676,7 @@
       "open_issues": 0,
       "owner": "mxm0z",
       "repo": "awesome-sec-s3",
-      "stars": 431,
+      "stars": 432,
       "topics": [
         "awesome-list",
         "aws",
