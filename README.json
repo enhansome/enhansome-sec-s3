@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "jordanpotti",
             "repo": "AWSBucketDump",
-            "stars": 1474,
+            "stars": 1472,
             "topics": [
               "bugbounty",
               "enumeration",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:07:24.412Z",
+    "last_updated": "2026-10-02T16:21:06.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
