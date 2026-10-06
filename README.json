@@ -45,7 +45,7 @@
             "open_issues": 41,
             "owner": "sa7mon",
             "repo": "S3Scanner",
-            "stars": 3174,
+            "stars": 3175,
             "topics": [
               "aws",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "koenrh",
             "repo": "s3enum",
-            "stars": 281,
+            "stars": 282,
             "topics": [
               "amazon-s3",
               "golang",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:39:35.048Z",
+    "last_updated": "2026-10-06T16:54:39.640Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
