@@ -46,7 +46,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Grayhat Warfare](http://buckets.grayhatwarfare.com/)                                                                         | Free tool that lists open S3 buckets and helps search for interesting files |
 | [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,471 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-10                   | Quickly enumerate AWS S3 buckets to look for loot                           |
-| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,176 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
+| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,174 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
 | [s3enum](https://github.com/koenrh/s3enum) ⭐ 282 \| 🐛 3 \| 🌐 Go \| 📅 2026-08-24                                            | Fast Amazon S3 bucket enumeration tool for pentesters                       |
 | [s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) ⭐ 398 \| 🐛 0 \| 🌐 PHP \| 📅 2023-03-28                    | PHP tool to brute force Amazon S3 buckets (by gwen001)                      |
 | [s3-buckets-finder](https://github.com/gold1029/s3-buckets-finder) ⭐ 1 \| 🐛 0 \| 🌐 PHP \| 📅 2018-04-27                     | PHP tool to brute force Amazon S3 buckets (by gold1029)                     |
@@ -78,7 +78,7 @@
 
 | Tool                                                                                                           | Description                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 535 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 536 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 85 \| 🐛 0 \| 🌐 Ruby \| 📅 2025-10-08 | Find public data in cloud storage systems                          |
 | [exif-scraper](https://github.com/downpat/exif-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2017-03-22              | Extract EXIF data from S3 bucket photos                            |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers)                                                | Web scraping for dumping stats to S3 bucket CSV files              |
@@ -104,7 +104,7 @@ Use the [enum\_wayback](https://github.com/mubix/stuff/blob/master/metasploit/en
 
 > In-depth reading about S3 security and misconfigurations
 
-* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 459 | 🐛 0 | 🌐 Python | 📅 2026-08-20 - Comprehensive list of documented S3 data exposures
+* [List of AWS S3 Leaks](https://github.com/nagwww/s3-leaks) ⭐ 459 | 🐛 1 | 🌐 Python | 📅 2026-08-20 - Comprehensive list of documented S3 data exposures
 * [How to Search for Open Amazon S3 Buckets](https://medium.com/@grayhatwarfare/how-to-search-for-open-amazon-s3-buckets-and-their-contents-https-buckets-grayhatwarfare-com-577b7b437e01) - GrayhatWarfare guide
 * [There's a Hole in 1,951 Amazon S3 Buckets](https://blog.rapid7.com/2013/03/27/open-s3-buckets/) - Rapid7 research
 * [Amazon S3 Bucket Public Access Considerations](https://aws.amazon.com/pt/articles/amazon-s3-bucket-public-access-considerations/) - Official AWS guidance
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
