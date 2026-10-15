@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:25:22.290Z",
+    "last_updated": "2026-10-15T15:18:35.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
