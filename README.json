@@ -645,7 +645,7 @@
             "id": 179674750,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T07:18:22Z",
+            "last_commit": "2026-10-17T12:37:19Z",
             "open_issues": 0,
             "owner": "s3m",
             "repo": "s3m",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:58:48.921Z",
+    "last_updated": "2026-10-17T13:53:19.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
