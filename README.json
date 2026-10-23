@@ -45,7 +45,7 @@
             "open_issues": 41,
             "owner": "sa7mon",
             "repo": "S3Scanner",
-            "stars": 3177,
+            "stars": 3179,
             "topics": [
               "aws",
               "bugbounty",
@@ -531,7 +531,7 @@
             "open_issues": 0,
             "owner": "glem0",
             "repo": "goGetBucket",
-            "stars": 116,
+            "stars": 117,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:19.131Z"
@@ -552,7 +552,7 @@
             "open_issues": 1,
             "owner": "FishermansEnemy",
             "repo": "bucket_finder",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:19.131Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T15:34:48.545Z",
+    "last_updated": "2026-10-23T15:25:02.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
@@ -676,7 +676,7 @@
       "open_issues": 0,
       "owner": "mxm0z",
       "repo": "awesome-sec-s3",
-      "stars": 432,
+      "stars": 434,
       "topics": [
         "awesome-list",
         "aws",
