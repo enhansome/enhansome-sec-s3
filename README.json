@@ -531,7 +531,7 @@
             "open_issues": 0,
             "owner": "glem0",
             "repo": "goGetBucket",
-            "stars": 117,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:19.131Z"
@@ -552,7 +552,7 @@
             "open_issues": 1,
             "owner": "FishermansEnemy",
             "repo": "bucket_finder",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:19.131Z"
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T16:53:57.228Z",
+    "last_updated": "2026-11-02T20:29:02.858Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
