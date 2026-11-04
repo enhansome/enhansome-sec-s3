@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "jordanpotti",
             "repo": "AWSBucketDump",
-            "stars": 1470,
+            "stars": 1471,
             "topics": [
               "bugbounty",
               "enumeration",
@@ -579,7 +579,7 @@
             "open_issues": 3,
             "owner": "jordanpotti",
             "repo": "CloudScraper",
-            "stars": 536,
+            "stars": 537,
             "topics": [
               "aws",
               "azure",
@@ -649,7 +649,7 @@
             "open_issues": 0,
             "owner": "s3m",
             "repo": "s3m",
-            "stars": 58,
+            "stars": 59,
             "topics": [
               "aws-s3",
               "s3",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T17:59:43.486Z",
+    "last_updated": "2026-11-04T18:12:10.591Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
