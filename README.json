@@ -311,7 +311,7 @@
             "open_issues": 1,
             "owner": "abuvanth",
             "repo": "kicks3",
-            "stars": 34,
+            "stars": 33,
             "topics": [
               "automation",
               "aws",
@@ -504,7 +504,7 @@
             "open_issues": 9,
             "owner": "eth0izzle",
             "repo": "bucket-stream",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "amazon-s3",
               "certificate-transparency",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:12:10.591Z",
+    "last_updated": "2026-11-05T18:14:41.133Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
