@@ -19,7 +19,7 @@
             "open_issues": 8,
             "owner": "jordanpotti",
             "repo": "AWSBucketDump",
-            "stars": 1471,
+            "stars": 1470,
             "topics": [
               "bugbounty",
               "enumeration",
@@ -45,7 +45,7 @@
             "open_issues": 41,
             "owner": "sa7mon",
             "repo": "S3Scanner",
-            "stars": 3180,
+            "stars": 3179,
             "topics": [
               "aws",
               "bugbounty",
@@ -73,7 +73,7 @@
             "open_issues": 3,
             "owner": "koenrh",
             "repo": "s3enum",
-            "stars": 282,
+            "stars": 281,
             "topics": [
               "amazon-s3",
               "golang",
@@ -130,7 +130,7 @@
             "open_issues": 0,
             "owner": "gold1029",
             "repo": "s3-buckets-finder",
-            "stars": 1,
+            "stars": 0,
             "topics": []
           },
           "first_seen": "2026-08-28T21:13:19.131Z"
@@ -311,7 +311,7 @@
             "open_issues": 1,
             "owner": "abuvanth",
             "repo": "kicks3",
-            "stars": 33,
+            "stars": 32,
             "topics": [
               "automation",
               "aws",
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T18:14:41.133Z",
+    "last_updated": "2026-11-06T17:39:30.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
