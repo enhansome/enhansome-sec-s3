@@ -645,8 +645,8 @@
             "id": 179674750,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-24T08:26:00Z",
-            "open_issues": 0,
+            "last_commit": "2026-11-09T20:59:30Z",
+            "open_issues": 1,
             "owner": "s3m",
             "repo": "s3m",
             "stars": 59,
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:46:22.484Z",
+    "last_updated": "2026-11-09T21:01:13.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
@@ -676,7 +676,7 @@
       "open_issues": 0,
       "owner": "mxm0z",
       "repo": "awesome-sec-s3",
-      "stars": 435,
+      "stars": 436,
       "topics": [
         "awesome-list",
         "aws",
