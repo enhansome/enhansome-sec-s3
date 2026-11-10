@@ -98,7 +98,7 @@
             "open_issues": 0,
             "owner": "gwen001",
             "repo": "s3-buckets-finder",
-            "stars": 398,
+            "stars": 399,
             "topics": [
               "aws",
               "aws-s3",
@@ -579,7 +579,7 @@
             "open_issues": 3,
             "owner": "jordanpotti",
             "repo": "CloudScraper",
-            "stars": 537,
+            "stars": 538,
             "topics": [
               "aws",
               "azure",
@@ -645,8 +645,8 @@
             "id": 179674750,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T20:59:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-09T21:08:31Z",
+            "open_issues": 0,
             "owner": "s3m",
             "repo": "s3m",
             "stars": 59,
@@ -664,7 +664,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:01:13.702Z",
+    "last_updated": "2026-11-10T18:10:24.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of awesome AWS S3 tools that collects and enumerates exposed S3 buckets",
