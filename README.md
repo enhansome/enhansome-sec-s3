@@ -46,7 +46,7 @@
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Grayhat Warfare](http://buckets.grayhatwarfare.com/)                                                                         | Free tool that lists open S3 buckets and helps search for interesting files |
 | [AWSBucketDump](https://github.com/jordanpotti/AWSBucketDump) ⭐ 1,470 \| 🐛 8 \| 🌐 Python \| 📅 2024-04-10                   | Quickly enumerate AWS S3 buckets to look for loot                           |
-| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,179 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
+| [S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,180 \| 🐛 41 \| 🌐 Go \| 📅 2026-08-03                                   | Scan for open AWS S3 buckets and dump the contents                          |
 | [s3enum](https://github.com/koenrh/s3enum) ⭐ 281 \| 🐛 3 \| 🌐 Go \| 📅 2026-08-24                                            | Fast Amazon S3 bucket enumeration tool for pentesters                       |
 | [s3-buckets-finder](https://github.com/gwen001/s3-buckets-finder) ⭐ 399 \| 🐛 0 \| 🌐 PHP \| 📅 2023-03-28                    | PHP tool to brute force Amazon S3 buckets (by gwen001)                      |
 | [s3-buckets-finder](https://github.com/gold1029/s3-buckets-finder) ⭐ 0 \| 🐛 0 \| 🌐 PHP \| 📅 2018-04-27                     | PHP tool to brute force Amazon S3 buckets (by gold1029)                     |
@@ -78,7 +78,7 @@
 
 | Tool                                                                                                           | Description                                                        |
 | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 538 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
+| [CloudScraper](https://github.com/jordanpotti/CloudScraper) ⭐ 539 \| 🐛 3 \| 🌐 Python \| 📅 2022-03-07        | Enumerate targets for cloud resources (S3, Azure Blobs, DO Spaces) |
 | [CloudStorageFinder](https://github.com/digininja/CloudStorageFinder) ⭐ 86 \| 🐛 0 \| 🌐 Ruby \| 📅 2025-10-08 | Find public data in cloud storage systems                          |
 | [exif-scraper](https://github.com/downpat/exif-scraper) ⭐ 1 \| 🐛 0 \| 🌐 Python \| 📅 2017-03-22              | Extract EXIF data from S3 bucket photos                            |
 | [mlb-dfs-scrapers](https://github.com/kykosic/mlb-dfs-scrapers)                                                | Web scraping for dumping stats to S3 bucket CSV files              |
@@ -140,4 +140,4 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
